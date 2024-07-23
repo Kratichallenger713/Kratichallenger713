@@ -1,0 +1,105 @@
+#include<iostream>
+using namespace std;
+class Node{
+       public:
+       int data ;
+       Node* next;
+
+       Node( int data){
+        this->data = data;
+        this->next = NULL;
+       }
+};
+
+
+
+void insertathead(Node* &head,int d ){
+    //create a node temp
+    Node* temp = new Node(d);
+    //temp ko head bana diya 
+    temp->next = head;
+    //toh ab htemp hi head ban gaya hai
+    head= temp;
+}
+
+void print(Node* &head){
+    Node*temp=head;
+    while(temp!=NULL){
+      cout<<temp->data<<" ";
+      temp=temp->next;
+    }
+   cout<<endl;
+}
+void insertattail(Node*&tail,int d){
+    Node* temp = new Node(d);
+    tail->next = temp;
+    tail = temp;
+}
+
+
+void insertatposition(Node* &tail,Node*&head,int pos,int d){
+
+    Node*temp = head;
+    int cnt = 1;
+    
+    if(pos==1){
+        insertathead(head,d);
+        return ;
+    }
+      else {
+          while(cnt<pos-1){
+            temp = temp->next;
+            cnt++;
+          }
+          
+      Node* Nodetoinsert = new Node(d);
+         Nodetoinsert->next = temp->next;
+         temp->next = Nodetoinsert;
+
+      }
+      if(temp->next == NULL){
+        insertattail(tail,d);
+        return;
+      }
+
+
+}
+
+
+int main(){
+//head create kiya pehle
+    Node*head=NULL;
+    //create a new node
+    Node* node1 = new Node(10);
+    //point the new node to head
+     head = node1;
+      print(head);
+    /*cout<<" data is "<<head->data<<endl;
+     cout<<" next is "<<head->next<<endl;
+*/
+//create the tail and point to the node1
+Node* tail = node1;
+   /*  insertathead(head,3);
+     print(head);
+
+     insertathead(head,4);
+     print(head);
+
+     */
+
+     insertattail(tail,15);
+     print(head);
+
+
+  insertattail(tail,24);
+     print(head);
+      
+insertattail(tail,33);
+     print(head);
+
+insertatposition(tail,head,2,32);
+print(head);
+
+
+    return 0;
+}
