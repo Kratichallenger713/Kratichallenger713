@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi, I'm Kratika Bathav 👋
 
-<!--
-**Kratichallenger713/Kratichallenger713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year B.Tech student in **Artificial Intelligence & Machine Learning (AIML)**
+🏫 Madhav Institute of Technology & Science
+💻 MERN-Stack developer with a strong interest in building practical, scalable web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+
+**Languages**
+
+* C++
+* JavaScript
+* Python
+
+**Frontend**
+
+* HTML5
+* CSS3
+* Bootstrap
+* React.js
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MongoDB
+
+**Other**
+
+* Git & GitHub
+* REST APIs
+
+---
+
+### 🧠 What I’m Working On
+
+* Full-stack MERN projects with real-world use cases
+* Strengthening problem-solving skills using **C++**
+* Exploring AI/ML concepts alongside web development
+
+---
+
+### 🤝 Open to Collaboration
+
+* MERN stack projects
+* Web applications with meaningful impact
+* Beginner-friendly AI/ML integrations
+
+---
+
+### 📫 Connect With Me
+
+* 💼 LinkedIn: (https://www.linkedin.com/in/kratika-bathav-b09426298/)
+* 📧 Email: bkratika936@gmail.com
