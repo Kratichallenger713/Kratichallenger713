@@ -222,7 +222,7 @@ Machine Learning • Deep Learning • Exploratory Data Analysis
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KratiChallenger713&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
