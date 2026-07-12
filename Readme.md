@@ -232,7 +232,7 @@ Machine Learning • Deep Learning • Exploratory Data Analysis
 
 <p align="center">
 
-<img width="100%" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
+<img width="100%" src="https://leetcard.jacoblin.cool/Kratika713?theme=dark&font=JetBrains+Mono&ext=heatmap"/>
 
 </p>
 
