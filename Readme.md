@@ -34,7 +34,7 @@ Full Stack Developer • AI & ML Student • MERN Stack Enthusiast
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username="KratiChallenger713" width="100%" />
 </p>
 
 ---
