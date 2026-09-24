@@ -204,15 +204,15 @@ Machine Learning • Deep Learning • Exploratory Data Analysis
 
 <p align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kratichallenger713&theme=tokyonight"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kratichallenger713&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=Kratichallenger713&theme=tokyonight&hide_border=true"/>
 
 </p>
 
